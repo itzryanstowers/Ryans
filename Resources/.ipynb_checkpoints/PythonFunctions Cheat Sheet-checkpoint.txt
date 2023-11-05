@@ -905,19 +905,3 @@ Rolling Standard Deviation
 Similar to standard deviation but calculated over a rolling window. It helps identify changes in volatility over time.
 
 Interpretation depends on the specific analysis and goals. Generally, lower volatility (rolling_std) and alignment with the upward trend (ewa) may be considered favorable.
-
-000000000000000 Github push pull merge 000000000000000
-
-cd = navigate thru directory
-
-ls = view files in folder
-
-git clone = clone a repo
-
-git checkout -b <Branch Name> = create a new branch
-
-git branch = show branches
-
-git fetch origin main = make sure to be in the right folder to get ready to push
-
-git push origin <Branch_Name> = push your branch to main repo for collaboration or to your own repo
