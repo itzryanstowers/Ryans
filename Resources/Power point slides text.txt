@@ -1,0 +1,7 @@
+Slide 1: looking at the first graph is just a dsiplay of the closing price for AAPL.
+
+
+
+Slide 2:  In this next graph, you can see we added the MACD and signal line. We start off buying at the open, then when the MACD line pass the signal line we sell because the signal line is indicating a downwards trend.
+
+Slide 3:  In this last graph you can see a better picture of when we buy and sell for example, we started with buying at the open, then the MACD passes the signal line we sell until it passes it again. At approximately 1:45 the signal line is indicating a upwards trend where we buy until it crosses again to indicate that we sell.  
